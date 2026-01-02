@@ -11,3 +11,10 @@ security signals.
 ## Disclaimer
 All logs and events in this project are simulated.
 This project is for educational purposes only.
+
+## Conclusion
+
+This lab simulated a Security Operations Center workflow,
+from log ingestion to alert generation and incident assessment.
+
+It demonstrates foundational SOC and detection engineering skills.
