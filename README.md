@@ -18,3 +18,11 @@ This lab simulated a Security Operations Center workflow,
 from log ingestion to alert generation and incident assessment.
 
 It demonstrates foundational SOC and detection engineering skills.
+
+## Final Notes
+
+This project simulates a complete SOC workflow,
+from log ingestion to alert tuning.
+
+It highlights the importance of detection accuracy,
+false positive management, and ethical security monitoring.
